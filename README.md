@@ -5,5 +5,3 @@ This is a fun short project where you can make your own "Object with NCS Music" 
 
 # Limitations
 Currently, you can only use **.png** as your file source. If your image file is not a PNG, you should put it through a converter that allows turning your image to a PNG.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MQ5OrfgdCr4?si=OHQ-LlAdGMMCuzrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
